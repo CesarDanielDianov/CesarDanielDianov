@@ -1,4 +1,7 @@
-I'm César Dianov 👋
+# Hi,I'm César Dianov 👋
+
+# About Me 😼
+
 
 Software Engineer • Computer Science Student @ Instituto Superior Técnico
 
