@@ -22,6 +22,8 @@ Software Engineer • Computer Science Student @ Instituto Superior Técnico
 ## 💻 Platforms
 
 <p>
+  <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logisim_Evolution-6C3483?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
