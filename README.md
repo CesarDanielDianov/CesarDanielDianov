@@ -1,4 +1,8 @@
-## 💻 Tech Stack
+I'm César Dianov 👋
+
+Software Engineer • Computer Science Student @ Instituto Superior Técnico
+
+## 🚀 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge" />
