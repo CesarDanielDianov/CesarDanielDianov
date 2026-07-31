@@ -1,20 +1,6 @@
-<h1 align="center">Hi, I'm César Dianov 👋</h1>
+I'm César Dianov 👋
 
-<p align="center">
-  Software Engineer • Computer Science Student @ Instituto Superior Técnico
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm a Software Engineering student at Instituto Superior Técnico (IST), passionate about building reliable software and continuously learning new technologies.
-
-My main interests include **Artificial Intelligence**, **Cybersecurity**, **Cloud Computing**, and **Software Engineering**. I enjoy working on projects that challenge my problem-solving skills while helping me grow as a developer.
-
-Currently, I'm expanding my knowledge through personal projects and exploring modern software development practices.
-
----
+Software Engineer • Computer Science Student @ Instituto Superior Técnico
 
 ## 🚀 Tech Stack
 
