@@ -19,6 +19,9 @@ Software Engineer • Computer Science Student @ Instituto Superior Técnico
   
 </p>
 
+
+
+
 ## 💻 Platforms
 
 <p>
@@ -37,6 +40,8 @@ Software Engineer • Computer Science Student @ Instituto Superior Técnico
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
+
+
 
 
 ## 🌐 Socials
