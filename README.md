@@ -1,9 +1,9 @@
 # Hi, I'm César Dianov 👋
-<br>
+
 ## About Me 😼
 
 Software Engineer • Computer Science Student @ Instituto Superior Técnico
-<br>
+
 ## 🚀 Tech Stack
 
 <p>
@@ -18,7 +18,7 @@ Software Engineer • Computer Science Student @ Instituto Superior Técnico
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
   
 </p>
-<br>
+
 ## 💻 Platforms
 
 <p>
@@ -38,7 +38,7 @@ Software Engineer • Computer Science Student @ Instituto Superior Técnico
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
 
-<br>
+
 ## 🌐 Socials
 
 <p>
