@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm César Dianov 👋</h1>
 
-<!--
-**CesarDanielDianov/CesarDanielDianov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software Engineer • Computer Science Student @ Instituto Superior Técnico
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a Software Engineering student at Instituto Superior Técnico (IST), passionate about building reliable software and continuously learning new technologies.
+
+My main interests include **Artificial Intelligence**, **Cybersecurity**, **Cloud Computing**, and **Software Engineering**. I enjoy working on projects that challenge my problem-solving skills while helping me grow as a developer.
+
+Currently, I'm expanding my knowledge through personal projects and exploring modern software development practices.
+
+---
+
+## 🚀 Tech Stack
+
+**Languages**
+- Java
+- C
+- TypeScript
+- SQL
+- Python
+
+**Frontend**
+- React
+- Next.js
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- REST APIs
+
+**Databases**
+- PostgreSQL
+
+**Tools**
+- Git
+- GitHub
+- Linux
+- Docker (Learning)
+
+
