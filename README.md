@@ -4,7 +4,7 @@
 
 Software Engineer • Computer Science Student @ Instituto Superior Técnico
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" />
