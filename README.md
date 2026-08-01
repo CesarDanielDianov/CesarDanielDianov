@@ -7,6 +7,7 @@ Software Engineer • Computer Science Student @ Instituto Superior Técnico
 ## 🚀 Tech Stack
 
 <p>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Assembly-525252?style=for-the-badge" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
