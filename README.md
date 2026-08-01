@@ -4,7 +4,7 @@
 
 Software Engineer • Computer Science Student @ Instituto Superior Técnico
 
-# 🚀 Tech Stack
+# 💻 Languages
 
 <p>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white" />
@@ -17,10 +17,9 @@ Software Engineer • Computer Science Student @ Instituto Superior Técnico
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  
 </p>
 
-
+# 🛠️ Platforms & Tools
 
 <p>
   <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" />
@@ -40,7 +39,6 @@ Software Engineer • Computer Science Student @ Instituto Superior Técnico
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 </p>
-
 
 # 🌐 Socials
 
