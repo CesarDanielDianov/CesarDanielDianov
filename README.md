@@ -20,7 +20,7 @@ Software Engineer • Computer Science Student @ Instituto Superior Técnico
   
 </p>
 
-## 💻 Platforms
+
 
 <p>
   <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" />
