@@ -42,7 +42,7 @@ Software Engineer • Computer Science Student @ Instituto Superior Técnico
 </p>
 
 
-## 🌐 Socials
+# 🌐 Socials
 
 <p>
   <a href="https://github.com/CesarDanielDianov">
