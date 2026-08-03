@@ -22,6 +22,7 @@ Software Engineer • Computer Science Student @ Instituto Superior Técnico
 # 🛠️ Platforms & Tools
 
 <p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/RISC--V-283272?style=for-the-badge&logo=riscv&logoColor=white" />
   <img src="https://img.shields.io/badge/Logisim_Evolution-6C3483?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
